@@ -1,35 +1,35 @@
 {
   "profiles": [
     {
-      "_id": 1,
+      "id": 1,
       "admin": true,
       "supervise": true,
       "name": "Abiral Sthapit",
       "email": "abiral@fusemachines.com"
     },
     {
-      "_id": 2,
+      "id": 2,
       "admin": false,
       "supervise": true,
       "name": "Karishma Shakya",
       "email": "karishma.shakya@fusemachines.com"
     },
     {
-      "_id": 3,
+      "id": 3,
       "admin": false,
       "supervise": false,
       "name": "Sajan Thapa",
       "email": "sajan@fusemachines.com"
     },
     {
-      "_id": 4,
+      "id": 4,
       "admin": false,
       "supervise": false,
       "name": "Reetu Shrestha",
       "email": "reetu@fusemachines.com"
     },
     {
-      "_id": 5,
+      "id": 5,
       "admin": false,
       "supervise": false,
       "name": "Shree Shrestha",
